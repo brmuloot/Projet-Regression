@@ -1,6 +1,8 @@
 # Projet-Regression
 Projet à effectuer dans le cadre du cours de la Régression Linéaire en M1 Mathématiques Appliqués, Statistiques
 
+Par Jean Knight Peterson et Brice Mulot.
+
 # Présentation des données
 
 Marque : Le nom du fabricant de la voiture (par exemple, "CADILLAC").
